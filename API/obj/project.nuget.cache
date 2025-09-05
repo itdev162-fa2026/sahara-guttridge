@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYSVFS0rw8I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sahar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\sahar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
