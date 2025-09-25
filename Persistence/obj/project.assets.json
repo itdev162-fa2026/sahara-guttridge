@@ -3101,11 +3101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
