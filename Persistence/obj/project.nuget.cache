@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "fScXM7dOoh4=",
-=======
-  "dgSpecHash": "nYCzWkyYlqM=",
->>>>>>> 77db2ac9577498b09450d6ebdab1f312312febc1
+  "dgSpecHash": "PfQGVkmc0Kw=",
   "success": true,
   "projectFilePath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
