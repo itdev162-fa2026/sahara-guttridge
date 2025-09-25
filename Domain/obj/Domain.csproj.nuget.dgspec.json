@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj": {}
+    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj": {
+    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",

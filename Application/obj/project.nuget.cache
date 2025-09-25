@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ZsTzP0HHERM=",
+=======
+  "dgSpecHash": "hibdJNccbsA=",
+>>>>>>> 77db2ac9577498b09450d6ebdab1f312312febc1
   "success": true,
-  "projectFilePath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sahar\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
     "C:\\Users\\sahar\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.9\\microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
