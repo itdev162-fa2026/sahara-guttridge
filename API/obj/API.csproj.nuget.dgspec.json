@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\API\\API.csproj": {}
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\API\\API.csproj": {
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\API\\API.csproj",
+        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\API\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\Application.csproj"
+              "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\Application.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\Application.csproj": {
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Application\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,11 +110,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj"
+              "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj"
+              "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj": {
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -239,8 +239,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\itdev162\\sahara-guttridge\\Domain\\Domain.csproj"
+              "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\Domain\\Domain.csproj"
               }
             }
           }
