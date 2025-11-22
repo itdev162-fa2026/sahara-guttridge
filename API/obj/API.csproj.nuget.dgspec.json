@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj": {}
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj": {
+    "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\API.csproj",
+        "projectPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\api\\API.csproj",
         "packagesPath": "C:\\Users\\sahar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\API\\obj\\",
+        "outputPath": "C:\\Users\\sahar\\OneDrive\\matc\\ITDEV162\\sahara-guttridge\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,11 +56,17 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -263,7 +269,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -273,7 +279,7 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
