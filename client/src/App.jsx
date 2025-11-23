@@ -5,7 +5,8 @@ import ProductDetail from "./components/ProductDetail";
 import CartButton from "./components/Cart/CartButton";
 import Cart from "./components/Cart/Cart";
 import "./App.css";
-
+import Checkout from "./components/Checkout/Checkout";
+import OrderSuccess from "./components/Checkout/OrderSuccess";
 function App() {
     // Cart state
   const [cartItems, setCartItems] = useState([]);
@@ -116,6 +117,17 @@ function App() {
             path="/products/:id"
             element={<ProductDetail addToCart={addToCart} />}
           />
+           <Route
+    path="/checkout"
+    element={
+      <Checkout
+        cartItems={cartItems}
+        cartTotal={getCartTotal()}
+        clearCart={clearCart}
+      />
+    }
+  />
+  <Route path="/order/success" element={<OrderSuccess />} />
         </Routes>
       </main>
 
