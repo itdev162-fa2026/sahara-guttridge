@@ -7,6 +7,7 @@ import Cart from "./components/Cart/Cart";
 import "./App.css";
 import Checkout from "./components/Checkout/Checkout";
 import OrderSuccess from "./components/Checkout/OrderSuccess";
+import CheckoutCancelled from "./components/Checkout/CheckoutCancelled";
 function App() {
     // Cart state
   const [cartItems, setCartItems] = useState([]);
@@ -128,6 +129,8 @@ function App() {
     }
   />
   <Route path="/order/success" element={<OrderSuccess />} />
+  <Route path="/checkout/cancelled" element={<CheckoutCancelled />} />
+
         </Routes>
       </main>
 

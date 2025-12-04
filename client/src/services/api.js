@@ -1,5 +1,5 @@
-const API_BASE_URL = 'http://localhost:5295';
-
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://localhost:5295";
 export const getProducts = async () => {
   try {
     const response = await fetch(`${API_BASE_URL}/products`);
@@ -48,38 +48,43 @@ export const searchProducts = async (searchTerm) => {
   }
 };
 
-export const createOrder = async (customerEmail, cartItems) => {
+export const createCheckoutSession = async (customerEmail, cartItems) => {
   try {
-    const response = await fetch(`${API_BASE_URL}/api/orders`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        customerEmail,
-        items: cartItems.map((item) => ({
-          productId: item.product.id,
-          quantity: item.quantity,
-        })),
-      }),
-    });
+    const response = await fetch(
+      `${API_BASE_URL}/api/checkout/create-session`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          customerEmail,
+          items: cartItems.map((item) => ({
+            productId: item.product.id,
+            quantity: item.quantity,
+          })),
+        }),
+      }
+    );
 
     if (!response.ok) {
       const error = await response.text();
-      throw new Error(error || "Failed to create order");
+      throw new Error(error || "Failed to create checkout session");
     }
 
     return await response.json();
   } catch (error) {
-    console.error("Error creating order:", error);
+    console.error("Error creating checkout session:", error);
     throw error;
   }
 };
 
-// Get order by ID
-export const getOrderById = async (orderId) => {
+// Get order by Stripe session ID
+export const getOrderBySessionId = async (sessionId) => {
   try {
-    const response = await fetch(`${API_BASE_URL}/api/orders/${orderId}`);
+    const response = await fetch(
+      `${API_BASE_URL}/api/orders/session/${sessionId}`
+    );
 
     if (!response.ok) {
       throw new Error("Failed to fetch order");
